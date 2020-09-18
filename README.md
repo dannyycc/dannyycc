@@ -20,3 +20,7 @@ I'm an undergraduate studying Cyber Security student that's passionate about all
 - 🔭 I’m currently working on my own blog with Hugo & Netlify
 - 🌱 I’m currently learning C
 - 📫 How to reach me: danny@dannyy.tech
+
+<a href="https://dannyycc-spotify.vercel.app/now-playing?open">
+    <img src="https://dannyycc-spotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
