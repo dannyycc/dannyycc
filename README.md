@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an undergraduate studying Cyber Security student that's passionate about all things technology, I enjoy checking out interesting open source projects and contributing.
+I'm an undergraduate studying Cyber Security that's passionate about all things technology, I enjoy checking out interesting open source projects and contributing.
 
 - 🔭 I’m currently working on my own blog with Hugo & Netlify
 - 🌱 I’m currently learning C
