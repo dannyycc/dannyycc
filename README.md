@@ -19,8 +19,6 @@ I'm an undergraduate studying Cyber Security that's passionate about all things 
 
 - 🔭 I’m currently working on my own blog with Hugo & Netlify
 - 🌱 I’m currently learning C
-- 📫 How to reach me: danny@dannyy.tech
-
 
 **Now Playing on Spotify**
 
