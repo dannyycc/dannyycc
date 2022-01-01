@@ -29,6 +29,7 @@ I'm an undergraduate studying Cyber Security that's passionate about all things 
 </a>
 
 
+<!--
 <table>
   <thead>
     <tr>
@@ -39,13 +40,14 @@ I'm an undergraduate studying Cyber Security that's passionate about all things 
     <tr>
       <td><a href="https://dannyycc-spotify.vercel.app/top-tracks?i=1&open"><img src="https://dannyycc-spotify.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr> 
     <tr>
       <td><a href="hhttps://dannyycc-spotify.vercel.app/top-tracks?i=2&open"><img src="https://dannyycc-spotify.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
     </tr>
-    <tr></tr> <!-- hide gray row -->
+    <tr></tr> 
     <tr>
       <td><a href="https://dannyycc-spotify.vercel.app/top-tracks?i=3&open"><img src="https://dannyycc-spotify.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
     </tr>
   </tbody>
 </table>
+-->
