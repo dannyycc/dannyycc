@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 
-I'm an undergraduate studying Cyber Security that's passionate about all things technology, I enjoy checking out interesting open source projects and contributing.
+I'm a Cyber Security professional that's passionate about all things technology, I enjoy checking out interesting open source projects and contributing.
 
 
 **Now Playing on Spotify**
