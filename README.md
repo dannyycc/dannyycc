@@ -25,7 +25,7 @@ I'm a Cyber Security professional that's passionate about all things technology,
 **Now Playing on Spotify**
 
 <a href="https://dannyycc-spotify.vercel.app/now-playing?open">
-    <img src="https://dannyycc-spotify.vercel.app/now-playing" width="540" height="64" alt="Now Playing">`
+    <img src="https://dannyycc-spotify.vercel.app/now-playing" width="540" height="64" alt="Now Playing">
 </a>
 
 
